@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{97FFEC74-57CB-46FB-B9BD-CBF84D2AD02B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AliceAndBob PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AliceAndBob/Test3.cs">
+    <Files>
+      <File FileName="AliceAndBob/Program.cs" Line="8" Column="13" />
+      <File FileName="AliceAndBob/Person.cs" Line="26" Column="1" />
+      <File FileName="AliceAndBob/Test3.cs" Line="15" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AliceAndBob" expanded="True">
+            <Node name="AliceAndBob" expanded="True">
+              <Node name="Test3.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

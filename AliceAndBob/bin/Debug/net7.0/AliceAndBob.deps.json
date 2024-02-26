@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AliceAndBob/1.0.0": {
+        "runtime": {
+          "AliceAndBob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AliceAndBob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

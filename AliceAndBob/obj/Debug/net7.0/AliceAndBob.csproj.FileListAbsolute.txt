@@ -1,0 +1,15 @@
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/bin/Debug/net7.0/AliceAndBob
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/bin/Debug/net7.0/AliceAndBob.deps.json
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/bin/Debug/net7.0/AliceAndBob.runtimeconfig.json
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/bin/Debug/net7.0/AliceAndBob.dll
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/bin/Debug/net7.0/AliceAndBob.pdb
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.csproj.AssemblyReference.cache
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.AssemblyInfoInputs.cache
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.AssemblyInfo.cs
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.csproj.CoreCompileInputs.cache
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.dll
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/refint/AliceAndBob.dll
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.pdb
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/AliceAndBob.genruntimeconfig.cache
+/Users/Luca/Projects/AliceAndBob/AliceAndBob/obj/Debug/net7.0/ref/AliceAndBob.dll
