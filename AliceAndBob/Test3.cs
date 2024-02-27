@@ -5,7 +5,7 @@
 		public static void Run()
 		{
 			// Each day, they make an ad campaing that might generate X sales (absolute) but Y% of failure.
-			const int DAYS = 100;
+			const int DAYS = 1000;
 			const int EXPERIMENTS = 1000000;
 			const double SETBACK = 0.2;
 			Random random = new();
